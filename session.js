@@ -43,5 +43,5 @@ module.exports = {
 SESSION_ID: process.env.SESSION_ID || "ANJU-XPRO~XVEDmDbZ#-5iljLapRTM58XAAhAR9MNqilVNkhxQbLnMRMD35Z34",
 SUDO: process.env.SUDO || ["94717775628","94758775628"],
 PORT: process.env.PORT || "8000",
-FOOTER: process.env.FOOTER || ".apply > 📥 ᵈᵒʷⁿˡᵒᵃᵈ ʷⁱᵗʰⁱⁿᵍ 14 ᵈᵃʸˢ.❗              *`✨️𝘿𝙆 𝙈𝙊𝙑𝙄𝙀𝙎✨️`*              *❖◉◎__[D̲̅][I̲̅][L̲̅][A̲̅]__◎◉❖*",
+FOOTER: process.env.FOOTER || "> 📥 ᵈᵒʷⁿˡᵒᵃᵈ ʷⁱᵗʰⁱⁿᵍ 14 ᵈᵃʸˢ.❗      *`✨️𝘿𝙆 𝙈𝙊𝙑𝙄𝙀𝙎✨️`*       *❖◉◎__[D̲̅][I̲̅][L̲̅][A̲̅]__◎◉❖*",
 };
